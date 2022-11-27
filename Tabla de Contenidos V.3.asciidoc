@@ -1,6 +1,6 @@
 1. Introducción: El Sistema Monetario
-    1. Actividad- “Introducción al 💴 “
-    2. Que problemas existen hoy con el 💵?
+    1. Actividad- “Introducción al dinero“
+    2. Que problemas existen hoy con el dinero?
         1. Consecuencias del desarrollo
             - Necesidades Infinitas/Recursos Escasos
         2. La Modernización 
@@ -13,7 +13,7 @@
             - Tarea opcional-Las pasas son un buen dinero?
         
 
-1. Historia, Evolución y Devaluación del Dinero
+2. Historia, Evolución y Devaluación del Dinero
     1. Actividad: “Juego del Trueque”
     2. Evolución del Dinero en el Tiempo 
         1. Video y organigrama
@@ -22,7 +22,7 @@
         1. La Reserva Fraccionaria
             - Actividad-Multiplicador Bancario
 
-1. Los Efectos del Dinero Fiat y la Centralización 
+3. Los Efectos del Dinero Fiat y la Centralización 
     1. Actividad-Subasta
     2. Inflación 
         1. Qué es y porqué nos importa?
@@ -38,7 +38,7 @@
         2. Características de un Sistema Descentralizado
     6. Conclusión 
 
-1. Bitcoin
+4. Bitcoin
     1. Porqué se creó Bitcoin?
         1. Los problemas a solucionar
         2. Como se solucionaron- La Blockchain
@@ -51,7 +51,7 @@
         1. Completar Actividad 2.c
     4. Participantes del Bitcoin
 
-1. Compra, Custodia y Movimiento de bitcoin
+5. Compra, Custodia y Movimiento de bitcoin
     1. Rampas de Entrada y Salida
         1. Tengo suficiente dinero para comprar bitcoin?
     2. Custodia de Bitcoin
@@ -67,7 +67,7 @@
         5. La confirmación de una Transacción 
     4. La Red de Bitcoin  
     
-2. Bitcoin cómo  Depositó de Valor y cómo Red de Pagos
+6. Bitcoin cómo  Depositó de Valor y cómo Red de Pagos
     1. El Problema del Doble Gasto
     2. Grupo de Memoria o “Mempool”
     3. Actividad-Transacciones Verificadas pero no Confirmadas
@@ -78,7 +78,7 @@
         1. La Diferencia entre Capa 1 y Capa 2
         2. Visualización y Actividad con Lightning
         
-3. Los Mineros y La Minería de bitcoin
+7. Los Mineros y La Minería de bitcoin
     1. Los Nodos Mineros
         1. Cómo es la competencia matemática entre mineros?
     2. Un Pequeño Desvío- para entender la importancia de los hashes 
@@ -94,7 +94,7 @@
         3. El Nonce del Bloque
         4. Actividad y Visualización: Analizar Bloques en Tiempo  Real
         
-4. La Escasez, El Costo, El Precio y La Volatilidad
+8. La Escasez, El Costo, El Precio y La Volatilidad
     1. La Importancia de la Recompensa del Bloque
     2. Halving
         1. Eventos de Reducción a la Mitad
@@ -107,7 +107,7 @@
         1. Los Ataques a Bitcoin
         2. Los ataques del 51%
         
-5. Bitcoin de Hoy y del Futuro
+9. Bitcoin de Hoy y del Futuro
     1. La Energía Consumida
     2. Ha Evolucionado?
     3. Innovación 
@@ -116,7 +116,7 @@
         3. Taro
     4. Bitcoin y el Futuro del Salvador
     
-6. Proyecto Final  y Evaluación 
+10. Proyecto Final  y Evaluación 
     1. Porqué Bitcoin?
         1. Qué es?
         2. Cómo funciona?
